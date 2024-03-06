@@ -10,8 +10,5 @@
 </div>
 
 <!-- Projects -->
-<div align="left">
-  <p>🛠️ **Projects:**<br>
-  * I’m currently working on my Discord bot: **Ranni Vevo**
-  </p>
-</div>
+🛠️ **Projects:**
+* I’m currently working on my Discord bot: **Ranni Vevo**
