@@ -6,9 +6,11 @@
 <!-- Introduction -->
 <div align="center">
   <h1>Hey, I'm Entropy A</h1>
-  <h3>Currently I'm just here to learn coding and stuff.</h3>
+  <h3>Currently I'm just here to learn coding and stuff. Feel free to help me out with optimizing my code or criticizing my work so far.</h3>
 </div>
 
 <!-- Projects -->
-🛠️ **Projects:**
-* I’m currently working on my Discord bot: **Ranni Vevo**
+<div align="center" margin-top=50px>
+  <h2>🛠️ Projects:</h1>
+  <p>I’m currently only working on my Discord bot: **Ranni Vevo**</p>
+</div>
