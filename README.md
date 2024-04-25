@@ -10,7 +10,7 @@
 </div>
 
 <!-- Projects -->
-<div align="center" margin-top=50px>
+<div align="center", style="margin-top: 100px;">
   <h2>🛠️ Projects:</h1>
-  <p>I’m currently only working on my Discord bot: **Ranni Vevo**</p>
+  <p>At the moment I’m only working on my Discord bot: **Ranni Vevo**</p>
 </div>
