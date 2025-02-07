@@ -6,7 +6,7 @@
 <!-- Introduction -->
 <div align="center">
   <h1>Hey, I'm Entropy A</h1>
-  <h3>Currently I'm just here to learn coding and stuff. Feel free to help me out with optimizing my code or criticizing my work so far.</h3>
+  <h4>Currently I'm just here to learn full stack. <br> I would appreciate if you help me out with optimizing my code or criticizing my work so far ;p</h4>
 </div>
 
 <!-- Projects -->
