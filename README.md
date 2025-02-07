@@ -12,5 +12,5 @@
 <!-- Projects -->
 <div align="center", style="margin-top: 100px;">
   <h2>🛠️ Projects:</h1>
-  <p>At the moment I’m only working on my Discord bot: **Ranni Vevo**</p>
+  <p>At the moment I’m only working on my Discord bot: **Kaia**</p>
 </div>
