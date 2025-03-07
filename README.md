@@ -19,22 +19,7 @@
 <div align="center" style="margin-top: 100px;">
   <h1>🛠️ Projects:</h1>
   <ul style="text-align: center; list-style-position: inside;">
-    <li>First item</li>
-    <li>Second item</li>
-    <li>Third item</li>
+    <li>Kaia Discord Bot</li>
+    <li>Kaia Web interface</li>
   </ul>
 </div>
-
-# Centered bullet list
-.center[
-.bullets[
-- EMail-Verschlüsselung
-]
-]
-
-# Right-aligned bullet list
-.right[
-.bullets[
-- EMail-Verschlüsselung
-]
-] 
