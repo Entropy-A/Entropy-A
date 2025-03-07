@@ -15,9 +15,9 @@
 <!-- Projects -->
 <div align="center", style="margin-top: 100px;">
   <h1>🛠️ Projects:</h1>
-  <ol>
+  <l>
     <li>First item</li>
     <li>Second item</li>
     <li>Third item</li>
-  </ol>
+  </l>
 </div>
