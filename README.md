@@ -5,17 +5,20 @@
 
 <!-- Introduction -->
 <div align="center">
-  <h1>Hey, I'm Entropy A</h1>
-  <h4>Currently I'm just here to learn full stack. 
+  <h1>
+    Hey, I'm Entropy A
+  </h1>
+  <h4>
+    Currently I'm just here to learn full stack. 
     <br> 
     I would appreciate if you help me out with optimizing my code or criticizing my work so far ;p
   </h4>
 </div>
 
 <!-- Projects -->
-<div align="center", style="margin-top: 100px;">
+<div align="center" style="margin-top: 100px;">
   <h1>🛠️ Projects:</h1>
-  <ul style="display: flex; align-items: center; list-style-position: inside;">
+  <ul style="list-style-position: inside; padding-left: 0; text-align: center;">
     <li>First item</li>
     <li>Second item</li>
     <li>Third item</li>
