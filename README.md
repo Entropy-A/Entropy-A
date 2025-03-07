@@ -15,7 +15,7 @@
 <!-- Projects -->
 <div align="center", style="margin-top: 100px;">
   <h1>🛠️ Projects:</h1>
-  <ul style="display: flex; flex-direction: column; align-items: center; list-style-position: inside;">
+  <ul style="display: flex; align-items: center; list-style-position: inside;">
     <li>First item</li>
     <li>Second item</li>
     <li>Third item</li>
