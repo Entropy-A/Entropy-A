@@ -6,11 +6,18 @@
 <!-- Introduction -->
 <div align="center">
   <h1>Hey, I'm Entropy A</h1>
-  <h4>Currently I'm just here to learn full stack. <br> I would appreciate if you help me out with optimizing my code or criticizing my work so far ;p</h4>
+  <h4>Currently I'm just here to learn full stack. 
+    <br> 
+    I would appreciate if you help me out with optimizing my code or criticizing my work so far ;p
+  </h4>
 </div>
 
 <!-- Projects -->
 <div align="center", style="margin-top: 100px;">
-  # 🛠️ Projects: 
-
+  <h1>🛠️ Projects:</h1>
+  <ol>
+    <li>First item</li>
+    <li>Second item</li>
+    <li>Third item</li>
+  </ol>
 </div>
