@@ -24,3 +24,17 @@
     <li>Third item</li>
   </ul>
 </div>
+
+# Centered bullet list
+.center[
+.bullets[
+- EMail-Verschlüsselung
+]
+]
+
+# Right-aligned bullet list
+.right[
+.bullets[
+- EMail-Verschlüsselung
+]
+] 
