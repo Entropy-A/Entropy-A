@@ -20,6 +20,6 @@
   <h1>🛠️ Projects:</h1>
   <ul style="text-align: center; list-style-position: inside;">
     <li>Kaia Discord Bot</li>
-    <li>Kaia Web interface</li>
+    <li>Kaia API</li>
   </ul>
 </div>
